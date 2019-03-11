@@ -64,5 +64,3 @@ npm install gh-got
 
 ```
 ```
-
-
